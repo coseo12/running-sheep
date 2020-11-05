@@ -7,7 +7,7 @@ export class SheepController {
       this.loaded();
     };
     // this.img.src = '../images/sheep.png';
-    this.img.src = 'https://coseo12.github.io/running-sheep/images/sheep.png';
+    this.img.src = 'images/sheep.png';
     this.items = [];
     this.cur = 0;
     this.isLoaded = false;
